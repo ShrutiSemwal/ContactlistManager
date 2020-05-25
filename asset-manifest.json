@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/contactlistmanager/static/css/main.36497136.chunk.css",
-    "main.js": "/contactlistmanager/static/js/main.c823ca70.chunk.js",
-    "main.js.map": "/contactlistmanager/static/js/main.c823ca70.chunk.js.map",
-    "runtime-main.js": "/contactlistmanager/static/js/runtime-main.70f2f802.js",
-    "runtime-main.js.map": "/contactlistmanager/static/js/runtime-main.70f2f802.js.map",
-    "static/css/2.aee84c9b.chunk.css": "/contactlistmanager/static/css/2.aee84c9b.chunk.css",
-    "static/js/2.831ea517.chunk.js": "/contactlistmanager/static/js/2.831ea517.chunk.js",
-    "static/js/2.831ea517.chunk.js.map": "/contactlistmanager/static/js/2.831ea517.chunk.js.map",
-    "index.html": "/contactlistmanager/index.html",
-    "precache-manifest.dd879f9753e73af6700088e44b635717.js": "/contactlistmanager/precache-manifest.dd879f9753e73af6700088e44b635717.js",
-    "service-worker.js": "/contactlistmanager/service-worker.js",
-    "static/css/2.aee84c9b.chunk.css.map": "/contactlistmanager/static/css/2.aee84c9b.chunk.css.map",
-    "static/css/main.36497136.chunk.css.map": "/contactlistmanager/static/css/main.36497136.chunk.css.map",
-    "static/js/2.831ea517.chunk.js.LICENSE.txt": "/contactlistmanager/static/js/2.831ea517.chunk.js.LICENSE.txt"
+    "main.css": "/ContactlistManager/static/css/main.36497136.chunk.css",
+    "main.js": "/ContactlistManager/static/js/main.98621b7c.chunk.js",
+    "main.js.map": "/ContactlistManager/static/js/main.98621b7c.chunk.js.map",
+    "runtime-main.js": "/ContactlistManager/static/js/runtime-main.c0d934c3.js",
+    "runtime-main.js.map": "/ContactlistManager/static/js/runtime-main.c0d934c3.js.map",
+    "static/css/2.aee84c9b.chunk.css": "/ContactlistManager/static/css/2.aee84c9b.chunk.css",
+    "static/js/2.2abbbe46.chunk.js": "/ContactlistManager/static/js/2.2abbbe46.chunk.js",
+    "static/js/2.2abbbe46.chunk.js.map": "/ContactlistManager/static/js/2.2abbbe46.chunk.js.map",
+    "index.html": "/ContactlistManager/index.html",
+    "precache-manifest.63702668d1b3bbdaaf773355aadd8d9b.js": "/ContactlistManager/precache-manifest.63702668d1b3bbdaaf773355aadd8d9b.js",
+    "service-worker.js": "/ContactlistManager/service-worker.js",
+    "static/css/2.aee84c9b.chunk.css.map": "/ContactlistManager/static/css/2.aee84c9b.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/ContactlistManager/static/css/main.36497136.chunk.css.map",
+    "static/js/2.2abbbe46.chunk.js.LICENSE.txt": "/ContactlistManager/static/js/2.2abbbe46.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.70f2f802.js",
+    "static/js/runtime-main.c0d934c3.js",
     "static/css/2.aee84c9b.chunk.css",
-    "static/js/2.831ea517.chunk.js",
+    "static/js/2.2abbbe46.chunk.js",
     "static/css/main.36497136.chunk.css",
-    "static/js/main.c823ca70.chunk.js"
+    "static/js/main.98621b7c.chunk.js"
   ]
 }
